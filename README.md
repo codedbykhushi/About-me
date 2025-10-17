@@ -1,2 +1,74 @@
-# About-me
-Master’s in Data Science &amp; Business Informatics @ University of Pisa Bridging data-driven problem solving with business strategy.
+<h1 align="center">Hi 👋, I'm Khushi Sharma</h1>
+<h3 align="center">MSc Data Science & Business Informatics @ University of Pisa</h3>
+<p align="center">Bridging data-driven problem solving with business strategy</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codedbykhushi&label=Profile%20views&color=0e75b6&style=flat" alt="codedbykhushi" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/api/?username=codedbykhushi&theme=onedark&row=1&column=6" alt="codedbykhushi" />
+  </a>
+</p>
+
+- 🔭 I'm currently learning **Machine Learning, Deep Learning, and Advanced Data Analytics**
+
+- 👯 I'm looking to collaborate on **Data Science and AI projects**
+
+- 🤝 I'm looking for help with **Research in NLP and Computer Vision**
+
+- 💬 Ask me about **Python, SQL, Data Analysis, and Machine Learning**
+
+- 📫 How to reach me **khushi.sharma@example.com** (update with your email)
+
+- ⚡ Fun fact **I believe data tells stories that can change the world!**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codedbykhushi&show_icons=true&locale=en&theme=radical" alt="codedbykhushi" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codedbykhushi&show_icons=true&locale=en&layout=compact&theme=radical" alt="codedbykhushi" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codedbykhushi&theme=radical" alt="codedbykhushi" />
+</p>
