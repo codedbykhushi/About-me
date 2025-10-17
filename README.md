@@ -1,2 +1,104 @@
-# About-me
-Master’s in Data Science &amp; Business Informatics @ University of Pisa Bridging data-driven problem solving with business strategy.
+<div align="center">
+  
+# 👋 Hi there, I'm Khushi Sharma!
+
+### 🎓 MSc Data Science & Business Informatics @ University of Pisa
+
+*Bridging data-driven problem solving with business strategy*
+
+<img src="https://komarev.com/ghpvc/?username=codedbykhushi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codedbykhushi&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</p>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🔭 I'm currently pursuing my **Master's in Data Science & Business Informatics** at the **University of Pisa**
+- 🌱 I'm passionate about leveraging data science to solve real-world business problems
+- 💡 I enjoy exploring the intersection of technology, data analytics, and strategic decision-making
+- 🎯 My focus areas include machine learning, business intelligence, and data visualization
+- 📊 I love turning complex data into actionable insights
+
+---
+
+## 💻 Skills & Technologies
+
+### 🧠 Data Science & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 📊 Visualization & BI
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/codedbykhushi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/codedbykhushi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:khushi@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> 💡 I believe that every dataset has a story to tell, and I love being the narrator who brings those stories to life through data visualization and analytics!
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=codedbykhushi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbykhushi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedbykhushi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 *"Data is the new oil, but insights are the refined fuel that drives innovation"*
+
+Made with ❤️ by Khushi Sharma
+
+</div>
